@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Meine Seite</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Meine Seite</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 13 Aug 2025 07:40:20 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Einladung zum Internetcafé</title>
+      <link>//localhost:1313/blog/2025/08/einladung-zum-internetcaf%C3%A9/</link>
+      <pubDate>Wed, 13 Aug 2025 07:40:20 +0200</pubDate>
+      <guid>//localhost:1313/blog/2025/08/einladung-zum-internetcaf%C3%A9/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/coffee-klein.png&#34; alt=&#34;Kaffee&#34;&gt;     &lt;img src=&#34;//localhost:1313/images/handy.jpg&#34; alt=&#34;Smartphone&#34;&gt;    &lt;img src=&#34;//localhost:1313/images/laptop-klein.jpg&#34; alt=&#34;Laptop&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;internetcafé&#34;&gt;Internetcafé&lt;/h1&gt;&#xA;&lt;p&gt;Man kann viele Sachen im Internet machen.&#xA;Zum Beispiel:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mit Freunden schreiben&lt;/li&gt;&#xA;&lt;li&gt;Einkaufen&lt;/li&gt;&#xA;&lt;li&gt;Spielen&lt;/li&gt;&#xA;&lt;li&gt;Neue Leute kennenlernen&#xA;Das Internet kann sehr nützlich sein.&#xA;Und es kann Spaß machen.&#xA;Aber man muss auch sicher sein.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Darüber wollen wir sprechen.&#xA;Was machst Du gerne im Internet?&#xA;Was möchtest Du lernen? Welche Hilfe brauchst Du? Welche Tipps hast Du für andere?&lt;/p&gt;&#xA;&lt;p&gt;Du kannst dein Handy mitbringen.&#xA;Oder Dein Tablet.&#xA;Oder Deinen Laptop.&#xA;Du kannst auch ohne diese Geräte teilnehmen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vierter Beitrag</title>
+      <link>//localhost:1313/blog/2025/08/vierter-beitrag/</link>
+      <pubDate>Sat, 09 Aug 2025 11:59:20 +0200</pubDate>
+      <guid>//localhost:1313/blog/2025/08/vierter-beitrag/</guid>
+      <description>&lt;p&gt;Wie macht man es, dass Hugo Bilder skaliert??&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dritter Beitrag</title>
+      <link>//localhost:1313/blog/2025/08/dritter-beitrag/</link>
+      <pubDate>Sat, 09 Aug 2025 11:57:25 +0200</pubDate>
+      <guid>//localhost:1313/blog/2025/08/dritter-beitrag/</guid>
+      <description>&lt;p&gt;&amp;hellip;und das ist der dritte Beitrag.&#xA;&lt;img src=&#34;//localhost:1313/images/bild3.jpg&#34; alt=&#34;Bild 3&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Was ist dieses Internet?</title>
+      <link>//localhost:1313/blog/2025/08/was-ist-dieses-internet/</link>
+      <pubDate>Fri, 08 Aug 2025 10:00:00 +0200</pubDate>
+      <guid>//localhost:1313/blog/2025/08/was-ist-dieses-internet/</guid>
+      <description>&lt;h1 id=&#34;was-ist-dieses-internet&#34;&gt;Was ist dieses Internet?&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/online640.jpg&#34; alt=&#34;Das Internet&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Das Internet ist wie ein großes Netz.&lt;br&gt;&#xA;Es verbindet viele Computer auf der ganzen Welt.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;So funktioniert das Internet:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Computer sprechen miteinander&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Computer sind mit Kabeln oder Funk verbunden.&lt;/li&gt;&#xA;&lt;li&gt;Sie tauschen Informationen aus.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Man kann viel machen:&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Nachrichten lesen (z. B. auf Webseiten).&lt;/li&gt;&#xA;&lt;li&gt;Videos schauen (z. B. auf YouTube).&lt;/li&gt;&#xA;&lt;li&gt;Mit anderen reden (z. B. per E-Mail oder Chat).&lt;/li&gt;&#xA;&lt;li&gt;Einkaufen (z. B. bei Amazon).&lt;/li&gt;&#xA;&lt;li&gt;Spiele spielen (z. B. online mit Freunden).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Man braucht eine Verbindung:&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mit WLAN (drahtlos).&lt;/li&gt;&#xA;&lt;li&gt;Oder mit einem Kabel (z. B. vom Router).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wichtig:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

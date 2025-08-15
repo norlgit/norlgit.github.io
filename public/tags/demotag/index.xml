@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DemoTag on Meine Seite</title>
+    <link>//localhost:1313/tags/demotag/</link>
+    <description>Recent content in DemoTag on Meine Seite</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 22 Feb 2023 11:49:46 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/demotag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Benefits of static site generators</title>
+      <link>//localhost:1313/demo/static-site-generators-benefits/</link>
+      <pubDate>Mon, 20 Feb 2023 11:49:46 +0800</pubDate>
+      <guid>//localhost:1313/demo/static-site-generators-benefits/</guid>
+      <description>&lt;p&gt;Improved performance, security and ease of use are just a few of&#xA;the reasons static site generators are so appealing.&lt;/p&gt;&#xA;&lt;p&gt;The purpose of website generators is to render content into HTML files.&#xA;Most are “dynamic site generators.” That means the HTTP server—i.e.,&#xA;the program that sends files to the browser to be viewed—runs the generator to&#xA;create a new HTML file every time an end user requests a page.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markdown Sample</title>
+      <link>//localhost:1313/demo/markdown-sample/</link>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/demo/markdown-sample/</guid>
+      <description>&lt;h1 id=&#34;headers&#34;&gt;Headers&lt;/h1&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# h1 Heading 8-)&#xA;## h2 Heading&#xA;### h3 Heading&#xA;#### h4 Heading&#xA;##### h5 Heading&#xA;###### h6 Heading&#xA;&#xA;Alternatively, for H1 and H2, an underline-ish style:&#xA;&#xA;Alt-H1&#xA;======&#xA;&#xA;Alt-H2&#xA;------&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+  </channel>
+</rss>

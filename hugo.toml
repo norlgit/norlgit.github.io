@@ -1,0 +1,23 @@
+baseURL = 'localhost:1313'
+languageCode = 'de-de'
+title = 'Meine Seite'
+#theme = 'hugo-xterm'
+theme = 'hugo-bearblog'
+#theme = 'hugo-pure'
+#theme = 'PaperMod'
+#theme = 'ananke'
+enableRobotsTXT = false
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url  = "/posts/"
+    weight = 10
+
+[permalinks]
+  posts = "/blog/:year/:month/:slug/"
+  pages = "/:slug/"
+
+[params]
+  custom_css = ["css/custom.css"]
+
